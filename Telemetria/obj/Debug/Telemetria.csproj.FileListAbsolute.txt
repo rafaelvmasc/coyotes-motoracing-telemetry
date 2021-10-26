@@ -1,0 +1,9 @@
+c:\users\rafael\documents\visual studio 2013\Projects\Telemetria\Telemetria\obj\Debug\Telemetria.Form1.resources
+c:\users\rafael\documents\visual studio 2013\Projects\Telemetria\Telemetria\obj\Debug\Telemetria.Properties.Resources.resources
+c:\users\rafael\documents\visual studio 2013\Projects\Telemetria\Telemetria\obj\Debug\Telemetria.csproj.GenerateResource.Cache
+c:\users\rafael\documents\visual studio 2013\Projects\Telemetria\Telemetria\obj\Debug\Telemetria.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Documents\Visual Studio 2013\Projects\Telemetria\Telemetria\bin\Debug\Telemetria.exe.config
+C:\Users\Rafael\Documents\Visual Studio 2013\Projects\Telemetria\Telemetria\bin\Debug\Telemetria.exe
+C:\Users\Rafael\Documents\Visual Studio 2013\Projects\Telemetria\Telemetria\bin\Debug\Telemetria.pdb
+C:\Users\Rafael\Documents\Visual Studio 2013\Projects\Telemetria\Telemetria\obj\Debug\Telemetria.exe
+C:\Users\Rafael\Documents\Visual Studio 2013\Projects\Telemetria\Telemetria\obj\Debug\Telemetria.pdb
